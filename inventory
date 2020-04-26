@@ -1,0 +1,2 @@
+dbserver ansible_ssh_host=3.135.61.19 ansible_ssh_user=naresh
+appserver ansible_ssh_host=18.223.190.35 ansible_ssh_user=naresh
